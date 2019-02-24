@@ -1,0 +1,1 @@
+EuropeanData <- read.csv(file.choose())
